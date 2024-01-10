@@ -3,7 +3,7 @@ Este case, foi pensado um cenário de RH com enfoque na função de realizar o p
 > Feito por Katia Lorena Cardoso Sena
 
 
-- No arquivo [Teste_Tecnico_MINEHR.ipynb](https://github.com/katiacardoso/CaseRH/blob/main/CaseRH.ipynb), é possível visualizar o código implementado e documentado
+- No arquivo [CaseRH.ipynb](https://github.com/katiacardoso/CaseRH/blob/main/CaseRH.ipynb), é possível visualizar o código implementado e documentado
 
 - A implementação foi realizada pelo Databricks, e para que isso seja possível foi necessário a criação/vinculação de uma conta AWS
 
